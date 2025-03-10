@@ -6,5 +6,7 @@ int main(void) {
 
     a = 10;
     printf("Hello, World!\n");
+
+    a = 20;
     return 0;
 }
